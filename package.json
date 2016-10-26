@@ -40,12 +40,12 @@
   },
   "homepage": "https://github.com/eliias/mean",
   "devDependencies": {
-    "browserify": "^9.0.3",
+    "browserify": "^13.1.1",
     "browserify-shim": "^3.8.3",
     "compression": "^1.4.3",
-    "grunt": "^0.4.5",
+    "grunt": "^1.0.1",
     "hintify": "^0.1.0",
-    "jquery": "^2.1.3",
+    "jquery": "^3.1.1",
     "jshint": "^2.6.3",
     "less": "^2.4.0",
     "morgan": "^1.5.2",
@@ -55,8 +55,8 @@
   "dependencies": {
     "express": "^4.12.3",
     "jade": "^1.9.2",
-    "mocha": "^2.2.1",
-    "should": "^5.2.0",
+    "mocha": "^3.1.2",
+    "should": "^11.1.1",
     "socket.io": "^1.3.5"
   }
 }
